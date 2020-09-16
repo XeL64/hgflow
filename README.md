@@ -1,5 +1,7 @@
 # README #
 
+clone from https://hg.sr.ht/~wu/hgflow
+
 Hgflow is an extension of the [Mercurial distributed version control system](https://www.mercurial-scm.org/) to provide users a set of high level commands for creating, merging, and deleting branches, which includes the support for the [Driessen's branching model](http://nvie.com/posts/a-successful-git-branching-model/). We also generalized the original Driessen's model by allowing user to use any branch as the base to start a (sub-)feature branch (and more).
 
 ## Get started ##
